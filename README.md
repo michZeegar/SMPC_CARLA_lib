@@ -1,18 +1,5 @@
 # SMPC_carla
 MPC control framework for CARLA simulation. 
-
----
-
-## Structure of directory 
-
- 1. Report: Containing everything related to the report (latex source file, report, ..:)
- 2. Presentation: Contains powerpoint presentation + pdf version 
- 3. mpcCARLA: Containing the python libary for mpc controller for the CARLA vehicle simulator
- 4. tools: Visualization tools to analyze the performance of the MPC controller (jupyter notebooks)
- 5. logs + plots: Dedicated saving location for log-files and created logs from the visualizing tools
- 6. docs: Documentation how to use the mpcCarla libary based on the simulation computer in the LSR lab
-
-
 ---
 
 ## How to install libary
