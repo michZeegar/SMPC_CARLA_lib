@@ -23,4 +23,5 @@ Starting MPC vehicle controller:
 ---
 ## Video
 
-https://github.com/michZeegar/SMPC_CARLA_lib/blob/master/CARLA_curce_driving_4xspeed.mp4
+https://user-images.githubusercontent.com/49361396/143782059-e963b417-15fa-4b43-bf59-ecfad64ef47f.mp4
+
