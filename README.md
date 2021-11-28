@@ -19,3 +19,8 @@ More information on this can be found in the documentation.
 Starting MPC vehicle controller: 
 
 	python3 simpleCar_MPC2.py -f './logs/*xy*.h5'
+
+---
+## Video
+
+https://github.com/michZeegar/SMPC_CARLA_lib/blob/master/CARLA_curce_driving_4xspeed.mp4
